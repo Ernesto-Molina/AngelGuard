@@ -3,7 +3,7 @@
 Prototipo de alta fidelidad de una red social tipo Instagram, pensado como un **entorno de práctica seguro** para que personas mayores aprendan a usar la tecnología actual sin miedo a equivocarse. Incluye **AngelGuard**, un asistente de IA que explica cada función en lenguaje simple, por texto y por voz.
 
 > Proyecto grupal (3 integrantes) del ramo *Diseño de Interfaces Usuarias*, Universidad Mayor.
-> Desarrollo completo de la aplicación (frontend, integración de IA y voz): **Ernesto Molina**. **Cristofer del rio** y **Rene Jorquera** realizó la investigación en terreno, la documentación y las presentaciones.
+> Desarrollo completo de la aplicación (frontend, integración de IA y voz) y presentaciones:**Ernesto Molina**. Integracion de la API KEY de la Inteligencia Artificial y Encargado de la Creacion del Chatbot:**Cristofer del rio**  y **Rene Jorquera** realizó la investigación en terreno, la documentación.
 
 **Demo en línea:** https://prototipo-hazel.vercel.app/
 
@@ -114,8 +114,9 @@ Para generar la versión de producción: `pnpm build` (la salida queda en `dist/
 
 ## Equipo
 
-- **Ernesto Molina** – desarrollo de la aplicación, integración con la API de IA y funciones de voz.
-- **Cristofer del Rio** y **Rene Jorquera** – investigación en terreno, documentación y presentaciones.
+- **Ernesto Molina** – desarrollo de la aplicación, integración del Chatbot al Sofware, funciones de voz y presentaciones.
+- **Cristofer del Rio** Encargado de la Creacion del Chatbot y integracion de la API de la IA 
+- **Rene Jorquera** – investigación en terreno, documentación.
 
 ## Licencia
 
